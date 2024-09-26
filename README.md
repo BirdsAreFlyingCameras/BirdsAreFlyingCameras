@@ -1,10 +1,7 @@
+![FBI-Bird-V3-Badge-Banner](https://github.com/user-attachments/assets/19a4eebf-cb7e-4373-8dd0-a19788e56a34)
+
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BirdsAreFlyingCameras&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BirdsAreFlyingCameras&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-
-
-
-
-
 
 
 
